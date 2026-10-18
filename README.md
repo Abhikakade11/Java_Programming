@@ -75,8 +75,8 @@ Java-Programming/
 
 ## 🛠️ Tools & Technologies
 
-Author 
-** Abhijit Ganesh Kakade  **
+## 👨‍💻 About Me
+Abhijit Ganesh Kakade
 
 - **Programming Language:** Java
 - **JDK:** Java Development Kit
